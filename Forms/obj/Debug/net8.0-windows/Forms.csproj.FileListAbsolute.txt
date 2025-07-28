@@ -71,3 +71,4 @@ C:\Users\yasin\source\repos\Forms\Forms\obj\Debug\net8.0-windows\Forms.TeminatCi
 C:\Users\yasin\source\repos\Forms\Forms\obj\Debug\net8.0-windows\Forms.TeminatTipForm.resources
 C:\Users\yasin\source\repos\Forms\Forms\obj\Debug\net8.0-windows\Forms.BasvuruGoruntuleForm.resources
 C:\Users\yasin\source\repos\Forms\Forms\obj\Debug\net8.0-windows\Forms.BasvuruIptalForm.resources
+C:\Users\yasin\source\repos\Forms\Forms\obj\Debug\net8.0-windows\Forms.sourcelink.json
