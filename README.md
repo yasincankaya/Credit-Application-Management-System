@@ -1,4 +1,4 @@
-# Loan Application Management System
+# Credit Application Management System
 
 A desktop-based application developed in C# using Windows Forms and MSSQL for managing personal loan applications. This project simulates real-world loan processes including customer data handling, guarantor information tracking, and application status management in a structured and user-friendly interface.
 
